@@ -1,0 +1,47 @@
+html,body{margin:0;padding:0;height:100%;min-height:100%;background-color:#181818;}
+
+/* ZAGLAVLJE */
+table.zaglavlje{width:750px;margin:0 auto;background-color:#222222;}
+
+table.zaglavlje tr td{padding:50px;text-align:center;}
+
+table.zaglavlje tr td h1{display:inline-block;margin:0;padding:15px;font-family:sans-serif;font-weight:400;color:white;font-size:36px;text-transform:uppercase;text-align:center;border:1px solid orange;}
+
+table.zaglavlje tr td h2{display:inline-block;margin:0 0 25px 0;padding:5px;font-family:sans-serif;font-weight:400;color:white;font-size:14px;text-transform:uppercase;text-align:center;}
+
+table.zaglavlje tr td nav ul{display:inline-block;margin:0;padding:0;list-style:none;}
+
+table.zaglavlje tr td nav ul li{display:inline-block;float:left;border-left:1px solid white;}
+
+table.zaglavlje tr td nav ul li:first-child{border-left:none;}
+
+table.zaglavlje tr td nav ul li a{display:inline-block;padding:7px 15px;color:white;font-family:sans-serif;font-size:10px;text-transform:uppercase;text-decoration:none;}
+
+/* TIJELO */
+table.tijelo{width:750px;padding:30px;margin:0 auto;background-color:white;}
+
+table.tijelo tr td{padding:15px;vertical-align:top;}
+
+table.tijelo tr td:first-child{width:30%;border:}
+
+table.tijelo tr td:last-child{width:70%;}
+
+
+table.tijelo tr td h3{display:inline-block;margin:0;padding:0;font-family:sans-serif;font-weight:400;color:orange;font-size:24px;text-transform:uppercase;text-align:center;border:1px solid orange;}
+
+table.tijelo tr td hr{border-color:orange;}
+
+table.tijelo tr td p{font-family:sans-serif;}
+
+table.tijelo tr td p span{font-weight:700;padding:0px;}
+
+table.tijelo tr td.linija{border-left:1px solid black;}
+
+table.tijelo tr td p.sadrzaj{font-weight:700;display:inline-block;}
+
+table.tijelo tr td p.potpis{font-family:cursive;font-size:30px;display:inline-block;padding:5px}
+
+
+
+
+
